@@ -1,9 +1,12 @@
 # KARYANITI — AI-Driven Workforce Intelligence & Well-being Analytics Platform
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://karyaniti-niernaya-phase2.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B.svg)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-5.20%2B-3F4F75.svg)](https://plotly.com/)
 [![License](https://img.shields.io/badge/License-Proprietary-purple.svg)]()
+
+> 🌐 **Live Cloud Deployment:** Access the interactive dashboard online at **[https://karyaniti-niernaya-phase2.streamlit.app/](https://karyaniti-niernaya-phase2.streamlit.app/)**
 
 > **KARYANITI** is a workforce intelligence and well-being analytics platform designed to synthesize empirical workload stress, retention signals, enterprise productivity dynamics, and remote-work burnout telemetry across analytically segregated cohorts.
 
@@ -71,7 +74,15 @@ KARYANITI/
 
 ## 🚀 Quickstart Guide
 
-### 1. Clone the Repository
+### Option A: Access Cloud Deployment (No Installation Required)
+Directly explore the live platform online:  
+👉 **[https://karyaniti-niernaya-phase2.streamlit.app/](https://karyaniti-niernaya-phase2.streamlit.app/)**
+
+---
+
+### Option B: Local Setup & Development
+
+#### 1. Clone the Repository
 ```bash
 git clone https://github.com/amanbapunavar17/KARYANITI.git
 cd KARYANITI
@@ -107,3 +118,4 @@ Open **`http://localhost:8501`** in your browser.
 - **Surfaces:** Soft lavender surfaces (`#F1EFF9`, `#F7F6FC`) with border accenting (`#E5E1F4`)
 - **Highlights:** Royal purple (`#7C5CFC`), vibrant orange (`#FA8231`), subtle gold (`#D49A3D`), and mint (`#20BF6B`)
 - **Visualizations:** Fully interactive, responsive Plotly figures matching the enterprise palette
+
